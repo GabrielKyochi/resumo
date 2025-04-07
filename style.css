@@ -10,3 +10,9 @@ body{
 #corCabeca{
     background-color: aqua;
 }
+
+#corDiv{
+    background-color: rgb(72, 0, 131);
+    width: 300px;
+    display: flex;
+}

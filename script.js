@@ -1,3 +1,4 @@
-function menuBotoes{
-    
+function menuBotoes(){
+<button onClick="Html"></button>
 }
+    
