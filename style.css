@@ -15,6 +15,18 @@ body{
     background-color: rgb(72, 0, 131);
     width: 300px;
     display: flex;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(0, 0, 0);
+}
+
+#corSection{
+    background-color: rgb(0, 13, 131);
+    width: 300px;
+    display: flex;
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(0, 0, 0);
 }
 
 .tamanhoImagens{
